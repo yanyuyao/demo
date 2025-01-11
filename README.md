@@ -4,7 +4,7 @@ UP1WebStarter is a generic web site building template. It supports features like
 
 - Contentful CMS integration
 - MUI based component UI
-- ...
+- ...   
 
 For more docs, see https://docs.google.com/document/d/16cqFiANamZvIgvfQjhh8kzTLOkKz1qPxuQ8uUMkjeaM/edit?usp=sharing
 
